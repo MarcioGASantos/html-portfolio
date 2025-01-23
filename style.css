@@ -1,0 +1,34 @@
+.header {
+    color: khaki;
+    text-align: center;
+    font-weight: bold;
+    background-image: url("./image 1.webp");
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+#blue {
+    background-color: aqua;
+}
+
+#green {
+    background-color: chartreuse;
+}
+
+#red {
+    background-color: crimson;
+}
+
+main {
+    font-family: Helvetica;
+}
+
+span {
+    color: blue;
+    font-weight: bold;
+}
